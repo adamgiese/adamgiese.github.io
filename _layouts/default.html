@@ -1,0 +1,17 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.name }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:300,900|Roboto" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <a href="{{ site.baseurl }}" class="home-link"><h2 class="site-greeting">{{ site.greeting }}</h2></a>
+      <h1 class="site-name">{{ site.name }}</h1>
+      <a class="contact-link" target="_blank" href="{{ site.formurl }}">{{ site.formcta }}</a>
+    </header>
+    {{ content }}
+  </body>
+</html>

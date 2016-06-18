@@ -1,0 +1,92 @@
+body {
+  color: #222;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: "Merriweather", serif; 
+}
+
+.home-link {
+  color: #222;
+  text-decoration: none;
+}
+
+.home-link:hover,
+.home-link:focus {
+  text-decoration: underline;
+  outline: none;
+}
+
+.contact-link {
+  color: #699;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+  outline: none;
+  color: #9BC2C2;
+  text-decoration: underline;
+}
+
+.site-greeting {
+  margin: 0; 
+  font-size: 64px;
+  font-weight: 900;
+  text-transform: lowercase;
+  line-height: 1.8;
+}
+
+.site-name {
+  margin: 0; 
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 2px;
+  line-height: 1.6;
+}
+
+.page,
+.post {
+  text-align: left;
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.page-title,
+.post-title {
+  text-align: center;
+}
+
+hr {
+  width: 4rem;
+  margin: 1.4rem auto;
+}
+
+.post-permalink {
+  font-size: 22px;
+  color: #699;
+}
+.post-permalink:hover,
+.post-permalink:focus {
+  color: #9BC2C2;
+  outline: none;
+}
+
+.post-summary {
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.post p {
+  margin-right: auto;
+  margin-left: auto;
+}
