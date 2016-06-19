@@ -25,4 +25,4 @@ A SASS powered rocket built by [Roy](https://twitter.com/roy). A happiness machi
 
 As my wife would attest, I have too many hobbies. Now I want to add 3D printing, IoT tinkering, and calligraphy to that list. 
 
-It doesn't need to serve a purpose! As @brendandawes said, "building something that you think deserves to exist". See where you expirimentation takes you.
+It doesn't need to serve a purpose! As Brendan said, "building something that you think deserves to exist". See where you experimentation takes you.
