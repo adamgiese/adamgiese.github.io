@@ -1,0 +1,27 @@
+.page,
+.post {
+  text-align: left;
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+
+  &-title {
+    text-align: center;
+  }
+
+  &-permalink {
+    font-size: 22px;
+    color: #699;
+
+    &:hover, 
+    &:focus {
+      color: #9BC2C2;
+      outline: none;
+    }
+  }
+
+  &-summary {
+    margin: 0 auto;
+    max-width: 400px;
+  }
+}

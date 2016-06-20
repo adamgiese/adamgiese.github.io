@@ -1,6 +1,9 @@
+destination: ./wwwroot
 name: I'm Adam Giese
 greeting: Howdy!
 formurl: http://goo.gl/forms/aWizIEnZj3MrFsF03
 formcta: "Need A Site?"
 exclude: ['scss']
 baseurl: https://adamgiese.github.io/
+sass:
+  sass_dir: styles

@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,MAAO;EACL,UAAU,EAAE,MAAM;EAClB,WAAW,ECFC,qBAAc;;ADK5B,cAAe;EACb,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,cAAc,EAAE,SAAS;EACzB,MAAM,EAAE,CAAC;;AAGX,UAAW;EACT,cAAc,EAAE,SAAS;EACzB,WAAW,EAAE,GAAG;EAChB,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,CAAC",
-"sources": ["scss/partials/_header.scss","scss/modules/_typography.scss"],
-"names": [],
-"file": "styles.css"
-}
