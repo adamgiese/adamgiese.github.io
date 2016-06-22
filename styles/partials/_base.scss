@@ -1,10 +1,10 @@
 body {
   color: $color-primary;
-  font-family: "Roboto", sans-serif;
+  @include async-font("Roboto");
 }
 
 h1, h2, h3 {
-  font-family: "Merriweather", serif; 
+  @include async-font("Merriweather", serif);
 }
 
 hr {
