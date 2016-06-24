@@ -1,6 +1,10 @@
 @mixin async-font($font, $fallback: sans-serif) {
   font-family: $fallback;
 
+  .no-js & {
+    font-family: $font $fallback;
+  }
+
   .wf-active & {
     font-family: $font $fallback;
   }
