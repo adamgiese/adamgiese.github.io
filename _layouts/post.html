@@ -4,6 +4,7 @@
     <div class="post">
       <hr>
       <h2 class="post-title">{{ page.title }}</h3>
+      <h5 class="post-date">Published {{ page.date | date: '%B %d, %Y' }}</h5>
       <hr>
       {{ content }}
       <footer class="post-footer">
