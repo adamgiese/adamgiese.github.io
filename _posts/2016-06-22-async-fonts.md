@@ -2,14 +2,15 @@
   title: Using "Web Font Loader" to Load Fonts Asynchronously
   summary: By using the "Web Font Loader", a library developed by Google and Typekit, you can improve your page's perceived load time - resulting in a smoother user experience.
   layout: post
-  category:
-    -javascript
-    -performance
-    -css
-    -sass
+  categories: 
+    javascript
+    performance
+    css
+    sass
 ---
 
 ### Why Load Fonts Asynchronously?
+
 
 When a Web Font is being requested by the browser, any text that uses the font will remain invisible until the request is completed. Although the browser will eventually give up if the Web Font is taking too long, iOS Safari will try for as long as _30 seconds_ before throwing in the towel. If somebody is browsing on their iPhone with a poor connection, they will likely bounce rather than waiting for your Web Font to load. 
 
