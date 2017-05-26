@@ -1,14 +1,17 @@
-
-
 <!DOCTYPE html>
 <html >
 
 <head>
   <meta charset="UTF-8">
   <title>React Audio | Beat Map</title>
+  
+  
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  
       <style>
       .app {
+  background: #061826;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -21,12 +24,17 @@
       -ms-flex-align: center;
           align-items: center;
   min-height: 100vh;
+  padding: 0 0.25rem;
 }
 
 .beats {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  width: 100%;
 }
 
 .beat {
@@ -38,6 +46,9 @@
   -webkit-box-direction: reverse;
       -ms-flex-direction: column-reverse;
           flex-direction: column-reverse;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
 }
 .beat-indicator {
   height: 0.25rem;
@@ -48,19 +59,19 @@
 }
 
 .tile {
-  width: 2em;
-  min-width: .25em;
-  max-width: 5em;
-  height: 2rem;
-  border: 2px solid black;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 auto;
+          flex: 1 auto;
+  border: none;
   margin: 0.25rem 0;
+  background: #0471A6;
   display: block;
 }
 .tile.active {
-  background: blue;
+  background: #89AAE6;
 }
 .beat.active .tile.active {
-  background: purple;
+  background: #AC80A0;
 }
 
     </style>
@@ -321,3 +332,4 @@ ReactDOM.render(React.createElement(App, null), document.getElementById('app'));
 
 </body>
 </html>
+ 
