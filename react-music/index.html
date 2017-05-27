@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>React Audio | Beat Map</title>
-  
+  <meta name="apple-mobile-web-app-capable" content="yes" />
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
@@ -148,7 +148,7 @@ var Beats = function (_React$Component2) {
     var _this2 = _possibleConstructorReturn(this, _React$Component2.call(this));
 
     var durations = Array(16).fill(300);
-    var frequencies = [notes.C, notes.D, notes.Eb, notes.G, notes.Ab, notes.B, notes.C * 2];
+    var frequencies = [notes.G / 2, notes.A / 2, notes.C, notes.D, notes.E, notes.G, notes.A, notes.C * 2];
     var map = Array(durations.length).fill(null);
     for (var i in map) {
       map[i] = Array(frequencies.length).fill(false);
@@ -332,4 +332,3 @@ ReactDOM.render(React.createElement(App, null), document.getElementById('app'));
 
 </body>
 </html>
- 
