@@ -1,0 +1,31 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>{{ site.name }}</title>
+    <link rel="stylesheet" href="/styles/styles.css">
+    {% include google-analytics.html %}
+  </head>
+  <body>
+    <div class="billboard">
+      <div class="billboard-content">
+        <h1 class="billboard-headline">
+          Adam Giese
+          <small class="billboard-headline--subtitle">Web Developer</small>
+        </h1>
+        <div class="billboard-description">
+          <p>I am a front-end developer with experience building websites and applications of all sizes.</p>
+          <p>Follow me on <a href="https://twitter.com/AdamGieseDev">Twitter</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSee6cZkDybCkr4S8wfSTmJVkP9B4gKGqyf422aWG1JCf3ZvYA/viewform?c=0&w=1">fill out this form</a> to contact me.</p>
+        </div>
+      </div>
+      <div class="billboard-code-container">
+        <div class="billboard-code">{% include billboard-code.html %}</div>
+      </div>
+    </div>
+    </div>
+    <script>document.documentElement.classList.remove('no-js');</script>
+    {% include async-font.html %}
+    {% include prism.html %}
+  </body>
+</html>

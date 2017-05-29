@@ -1,8 +1,9 @@
----
----
-@import "modules/typography";
-@import "modules/colors";
+@import "abstracts/typography";
+@import "abstracts/colors";
+@import "abstracts/media";
 
-@import "partials/base";
-@import "partials/header";
-@import "partials/post";
+@import "layout/base";
+@import "layout/header";
+@import "layout/post";
+
+@import "components/billboard";

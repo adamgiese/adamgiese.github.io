@@ -1,6 +1,12 @@
 body {
   color: $color-primary;
+  padding: 0;
+  margin: 0;
   @include async-font("Roboto");
+}
+
+* {
+  margin-top: 0;
 }
 
 h1, h2, h3 {
