@@ -38,5 +38,28 @@
         "Administration of WordPress sites."
       ]
     }
+  ],
+  "skills": [
+    "Writing scalable, well structured CSS/Sass for large websites and web applications.",
+    "Writing clean WordPress themes and plugins using WordPress best practices.",
+    "Writing landing pages that are blazing fast to reduce bounces and increase conversions.",
+    "Quality Assurance across multiple devices and browsers.",
+    "Integrating with external APIs.",
+    "Creating intuitive User Interface for both administrators and users.",
+    "Using git for version control."
+  ],
+  "technologies": [
+    "HTML5",
+    "CSS/Sass",
+    "Angular, React, & Vue",
+    "JavaScript",
+    "jQuery and jQuery Plugins",
+    "WordPress",
+    "NodeJS",
+    "PHP",
+    "Jekyll",
+    "Server administration",
+    "Laravel",
+    "WooCommerce"
   ]
 }
