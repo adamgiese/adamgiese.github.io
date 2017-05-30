@@ -1,0 +1,25 @@
+{
+  "info": {
+    "name": "Adam Giese",
+    "summary": "With seven years of Web Developer experience, I have been focusing on front-end and WordPress development for the last three years."
+  },
+  "experience": [
+    {
+      "employer": "Intelechy Group",
+      "title": "Senior Web Developer",
+      "from": "October 2014",
+      "until": "Present",
+      "responsibilities": [
+        "Creation of responsive WordPress themes from PSDs.",
+        "Creation of custom functionality with WordPress plugins.",
+        "Integrating with external APIs such as Facebook, PayPal, and Google Maps.",
+        "Use of responsive grid system.",
+        "Optimizing websites for performance.",
+        "Creation of time estimations for upcoming and prospective projects.",
+        "Interview and manage contractors.",
+        "Creation of new agency processes, including Git, website monitoring, and the usage of new tools such as Sass.",
+        "Writing technical blog entries and leading Lunch & Learns."
+      ]
+    }
+  ]
+}
