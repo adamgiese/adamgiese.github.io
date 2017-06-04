@@ -7,6 +7,27 @@
         "21+": "true"
     },
     {
+        "name": "Round Rock Express",
+        "link": "rrexpress.com",
+        "active": "false",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Novel Escape",
+        "link": "https://www.novelescape.com/",
+        "active": "false",
+        "sitter": "true",
+        "21+": "false"
+    },
+    {
+        "name": "Austin Ghost Tours",
+        "link": "http://www.austinghosttours.com/",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
         "name": "Esther's Follies",
         "link": "https://www.esthersfollies.com/",
         "active": "false",
@@ -77,9 +98,107 @@
         "21+": "false"
     },
     {
+        "name": "Chicken Shit Bingo",
+        "link": "http://thelittlelonghornsaloon.com/public_html_new/",
+        "active": "false",
+        "sitter": "true",
+        "21+": "true"
+    },
+    {
         "name": "Zilker Park",
         "link": "http://zilkerpark.org/",
         "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Wild Basin Wilderness Preserves",
+        "link": "https://parks.traviscountytx.gov/find-a-park/wild-basin",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Violet Crown Trail",
+        "link": "https://www.violetcrowntrail.com/",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Walnut Creek Metropolitan Park",
+        "link": "https://www.austinparks.org/parks/walnut-creek-metropolitan-park/",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "St. Edwards Park",
+        "link": "https://www.austinparks.org/parks/st-edwards-park/",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Craft",
+        "link": "http://madeatcraft.com/",
+        "active": "false",
+        "sitter": "true",
+        "21+": "false"
+    },
+    {
+        "name": "Sweet Deats",
+        "link": "http://www.sweeteats.com/",
+        "active": "false",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Zilker Botanical Gardens",
+        "link": "http://www.zilkergarden.org/",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Lady Bird Johnson Wildflower Center",
+        "link": "https://www.wildflower.org/",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Full Circle Bar",
+        "link": "http://www.fullcirclebar.com/",
+        "active": "false",
+        "sitter": "true",
+        "21+": "true"
+    },
+    {
+        "name": "Altitude Austin",
+        "link": "http://www.altitudeaustin.com/",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Capital Cruises",
+        "link": "http://www.capitalcruises.com/",
+        "active": "false",
+        "sitter": "true",
+        "21+": "false"
+    },
+    {
+        "name": "1Dog1Hour",
+        "link": "http://www.1dog1hour.com/",
+        "active": "true",
+        "sitter": "true",
+        "21+": "false"
+    },
+    {
+        "name": "Dimension Gallery",
+        "link": "http://dimensiongallery.org/",
+        "active": "false",
         "sitter": "false",
         "21+": "false"
     }
