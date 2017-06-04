@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Cap City Comedy Club",
+        "link": "http://www.capcitycomedy.com/",
+        "active": "false",
+        "sitter": "true",
+        "21+": "true"
+    },
+    {
+        "name": "Esther's Follies",
+        "link": "https://www.esthersfollies.com/",
+        "active": "false",
+        "sitter": "true",
+        "21+": "true"
+    },
+    {
+        "name": "Broken Spoke",
+        "link": "https://www.brokenspokeaustintx.net/",
+        "active": "false",
+        "sitter": "true",
+        "21+": "true"
+    },
+    {
+        "name": "Blue Starlite Cinema",
+        "link": "https://www.bluestarlitedrivein.com/",
+        "active": "false",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Harry Ransom Center",
+        "link": "http://www.hrc.utexas.edu/",
+        "active": "false",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Bob Bullock Museum",
+        "link": "https://www.thestoryoftexas.com/",
+        "active": "false",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Magic's Theater & Museum",
+        "link": "http://magicstheater.com/",
+        "active": "false",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Austin Toy Museum",
+        "link": "https://austintoymuseum.org/",
+        "active": "false",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "The Thinkery",
+        "link": "https://thinkeryaustin.org/",
+        "active": "false",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Mount Bonnell",
+        "link": "https://www.austinparks.org/parks/mount-bonnell/",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Peter Pan Mini Golf",
+        "link": "http://peterpanminigolf.com/",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    },
+    {
+        "name": "Zilker Park",
+        "link": "http://zilkerpark.org/",
+        "active": "true",
+        "sitter": "false",
+        "21+": "false"
+    }
+]
